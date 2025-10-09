@@ -14,6 +14,16 @@
 
 [WebRTC_Django](https://www.youtube.com/watch?v=MBOlZMLaQ8g)
 
+### **YouTube Channels**
+
+[WebRTC_FireShip](https://www.youtube.com/watch?v=WmR9IMUD_CY)
+
+[Hussain_Nasser](https://www.youtube.com/watch?v=FExZvpVvYxA&t=224s)
+
+[Piyush_Garg](https://www.youtube.com/playlist?list=PLinedj3B30sDxXVu4VXdFx678W2pJmORa)
+
+<hr>
+
 ## **Web Sockets Resources**
 
 **Node.js**

@@ -4,6 +4,8 @@
 
 [Web_Dev_Simplified_Socket_IO_Crash_Course](https://www.youtube.com/watch?v=ZKEqqIO7n-k&t=112s)
 
+[Socket_IO_Playlist](https://www.youtube.com/playlist?list=PLQDioScEMUhnRngUlo15YDXvAaaH8LUq7)
+
 **Socket.IO_Official_Docs**
 
 [Socket.IO_Docs](https://socket.io/docs/v4/tutorial/introduction)
